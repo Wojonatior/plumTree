@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files (x86)\nodejs\node.exe C:\Users\jarek\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\jarek\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\jarek\bin;C:\Python27;C:\Python27\Scripts;C:\program files (x86)\common files\intel\shared libraries\redist\ia32\mpirt;C:\program files (x86)\common files\intel\shared libraries\redist\ia32\compiler;C:\programdata\oracle\java\javapath;C:\windows\system32;C:\windows;C:\windows\system32\wbem;C:\windows\system32\windowspowershell\v1.0;C:\program files\microsoft sql server\110\tools\binn;C:\program files\microsoft sql server\120\tools\binn;C:\users\jarek\.dnx\bin;C:\program files\microsoft dnx\dnvm;C:\program files (x86)\livestreamer;C:\program files\microsoft sql server\130\tools\binn;C:\program files\git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\nodejs;C:\ProgramData\chocolatey\bin;C:\Users\jarek\AppData\Local\Programs\Python\Python35-32\Scripts;C:\Users\jarek\AppData\Local\Programs\Python\Python35-32;C:\Users\jarek\AppData\Local\Microsoft\WindowsApps;C:\Users\jarek\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\jarek\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.13.0
+
+Node version: 
+  11.8.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\jarek\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:96071:59)
+      at Object.<anonymous> (C:\Users\jarek\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:88459:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\jarek\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:304:30)
+      at C:\Users\jarek\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:315:13
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
